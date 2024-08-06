@@ -1,3 +1,6 @@
+# Blog
+https://kornkan.com/2024/07/19/what-is-spring-boot/
+
 # Overview
 This Spring Boot application provides a simple REST API that returns a ready status message and the current date and time in a specific format. The application demonstrates the use of Spring Boot for creating a basic web service with endpoint mappings for handling requests.
 
